@@ -2,13 +2,20 @@
   "type": "module",
   "name": "rebrick",
   "version": "1.0.0",
-  "description": "",
+  "description": "A package for interfacing with the rebrickable.com API",
+  "author": {
+    "name": "Daniel Garden",
+    "email": "dangarden@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dan-garden/rebrick.git"
+  },
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "chalk": "^5.0.1",
     "node-cache": "^5.1.2",
