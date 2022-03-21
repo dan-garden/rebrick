@@ -1,7 +1,7 @@
 {
   "type": "module",
   "name": "rebrick",
-  "version": "1.0.2",
+  "version": "1.0.4",
   "description": "A package for interfacing with the rebrickable.com API",
   "author": {
     "name": "Daniel Garden",
